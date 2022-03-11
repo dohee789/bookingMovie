@@ -3,8 +3,8 @@ import BookingMain from './Booking/BookingMain';
 
 const Test = () => {
     return (
-          <BookingMain name={'어밴져스'} cost={13}/>
+          <BookingMain name={'더 배트맨'} cost={13}/>
       );
-}           
+}
 
 export default Test
