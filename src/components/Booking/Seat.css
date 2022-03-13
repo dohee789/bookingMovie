@@ -1,0 +1,41 @@
+.seatBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.seatBox .row {
+  margin-bottom: 10px;
+  width: 30%;
+}
+
+.na {
+  list-style: none;
+  background-color: #444451;
+  height: 14px;
+  width: 14px;
+  border: 1px solid black;
+}
+
+.selected {
+  list-style: none;
+  background-color: #38ada9;
+  height: 14px;
+  width: 14px;
+  border: 1px solid black;
+}
+
+.unoccupied {
+  list-style: none;
+  background-color: white;
+  height: 14px;
+  width: 14px;
+  border: 1px solid black;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
