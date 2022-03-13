@@ -24,7 +24,7 @@
 * **실행 화면** :
 
   <메인>
-  ![메인](https://user-images.githubusercontent.com/87411479/158066418-315bcc45-4596-4fe8-80ee-3b218b7d5140.PNG)
+  ![메인](https://user-images.githubusercontent.com/78744630/158071759-7a5358dd-b7d7-43af-8387-d254293c194b.png)
 
   <좌석 예매>
   ![예매](https://user-images.githubusercontent.com/87411479/158066424-426785b4-b94a-45af-b438-5b446b29517f.PNG)
