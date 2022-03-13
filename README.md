@@ -23,6 +23,20 @@
   
 * **실행 화면** :
 
+  <메인>
+  ![메인](https://user-images.githubusercontent.com/87411479/158066418-315bcc45-4596-4fe8-80ee-3b218b7d5140.PNG)
+
+  <좌석 예매>
+  ![예매](https://user-images.githubusercontent.com/87411479/158066424-426785b4-b94a-45af-b438-5b446b29517f.PNG)
+
+  <예매 내역 확인>
+  ![예매내역](https://user-images.githubusercontent.com/87411479/158066425-db613fc7-9a65-4d8d-ba77-9b5b116db09a.PNG)
+
  
 * **트러블 슈팅** :
+
+* **개선할 사항** :
+
+  1. 데이터베이스 연동
+  2. API 이용
 
