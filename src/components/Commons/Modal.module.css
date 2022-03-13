@@ -9,10 +9,11 @@
 }
 
 .modal {
+    border: 3px solid #ff00004d;
     position: fixed;
     top: 15vh;
     left: 40%;
-    background-color: black;
+    background-color: rgba(241, 75, 75, 0.102);
     z-index: 30;
     padding: 1rem;
     border-radius: 14px;
