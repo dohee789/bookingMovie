@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import classes from './Modal.module.css'
+import classes from './BookModal.module.css'
 
 const Background = (props) => {
     return <div className={classes.background} onClick={props.onClose}/>

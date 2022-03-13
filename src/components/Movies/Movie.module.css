@@ -1,0 +1,88 @@
+.movie {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgb(243, 9, 9);
+  float: left;
+}
+
+.button {
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  margin: 0rem;
+  display: flex;
+  font-weight: bold;
+  align-items: flex-end;
+  border: none;
+}
+
+.img {
+  display: inline-flex;
+  justify-content: center;
+  margin: 1rem;
+  padding-bottom: 1rem;
+
+  height: 500px;
+  outline: 0;
+  border: none;
+}
+
+.movie h3 {
+  margin: 0 0 0.25rem 0;
+  padding-left: 20px;
+}
+
+.director {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.actor {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.age {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.date {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.runningtime {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #4a69bd;
+  font-size: 1.25rem;
+  padding-left: 20px;
+}
+
+.booking {
+  margin-top: 1rem;
+  padding-left: 20px;
+}

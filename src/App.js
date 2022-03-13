@@ -1,8 +1,10 @@
 import React, { useState } from 'react'
 import My from "./components/My/My";
 
-import HeaderMy from './components/Layout/HeaderMy';
 import Main from './components/Layout/Main';
+
+import Header from './components/Layout/Header'
+import Movies from './components/Movies/Movies'
 
 const App = () => {
   const [myIsShown, setMyIsShown] = useState(false);
@@ -19,9 +21,11 @@ const App = () => {
 
   return (
     <Main>
-      <HeaderMy onOpen={openMyHandler} />
       {myIsShown && <My onClose={closeMyHandler}/>}
-    </Main>
+      <Header onOpen={openMyHandler} />
+      
+      <Movies />
+    </Main> 
   )
 }
 

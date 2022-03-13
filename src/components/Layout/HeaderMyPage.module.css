@@ -1,0 +1,28 @@
+.button {
+    cursor: pointer;
+    border: none;
+    background-color: #c1d0e0;
+    color: white;
+    padding: 2rem 2rem;
+    margin: 0rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    position: fixed;
+    right: 0px;
+    height: 60px;
+ 
+
+}
+
+.button:hover {
+    background-color: #cbdf5d;
+}
+
+.movieIcon {
+    width: 60px;
+    height: 60px;
+    margin-right: 0.5rem;
+    object-fit: contain;
+}
