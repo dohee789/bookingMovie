@@ -9,7 +9,6 @@
     padding: 1rem;
     max-height: 30rem;
     max-width: 40rem;
-    border-radius: 8px;
 }
 
 .info {
@@ -21,6 +20,7 @@
 }
 
 .detail {
+    border-radius: 8px;
     background-color: black;
     color: white;
     padding: 1rem;
