@@ -13,6 +13,8 @@
     box-shadow: 0px 0px 7px 8px #ff00004d;
 }
 .button:active {
+
     background-color: #ff00004d;
     border: 2px solid #ff00004d;
 }
+
