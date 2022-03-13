@@ -1,14 +1,17 @@
 .button {
-    border: 3px solid #079992;
+    font-family: "Montserrat";
+    border: 3px solid #ff00004d;
     border-radius: 8px;
-    background-color: #079992;
+    background-color: #ff00004d;
     color: white;
     font-weight: bold;
     padding: 0.2rem 1rem;
     cursor: pointer;
 }
 
-.button:hover,
+.button:hover {
+    box-shadow: 0px 0px 7px 8px #ff00004d;
+}
 .button:active {
     background-color: #38ada9;
     border: 2px solid #38ada9;

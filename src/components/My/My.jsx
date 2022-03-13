@@ -10,7 +10,7 @@ const My = (props) => {
   const cartContext = useContext(MyContext);
 
   const myItems = (
-    <ul className={classes['my-items']}>
+    <ul className={classes['movie']}>
       {cartContext.items.map((movie) => (
         <MyItem
           key={movie.id}
