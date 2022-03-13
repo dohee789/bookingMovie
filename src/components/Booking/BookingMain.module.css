@@ -5,6 +5,7 @@
 }
 
 .header {
+  font-size: 2rem;
   text-align: center;
 }
 
@@ -15,7 +16,7 @@
 }
 
 .seatState {
-  font-size: 0.35rem;
+  font-size: 1rem;
   margin-right: 2rem;
 }
 
@@ -24,35 +25,35 @@
 }
 
 .seatBlock li {
-  margin-top: 0.25rem;
+  margin-top: 1.1rem;
   border: 1px solid black;
 }
 
 .na {
   background-color: #444451;
-  height: 14px;
-  width: 14px;
+  height: 18px;
+  width: 18px;
 }
 
 .selected {
-  background-color: #38ada9;
-  height: 14px;
-  width: 14px;
+  background-color: #ff00004d;
+  height: 18px;
+  width: 18px;
 }
 
 .unoccupied {
   background-color: white;
-  height: 14px;
-  width: 14px;
+  height: 18px;
+  width: 18px;
 }
 
 .screen {
   text-align: center;
   border: 1px solid black;
-  width: 5rem;
-  height: 2rem;
+  width: 8rem;
+  height: 4rem;
   margin-top: 2rem;
-  font-size: 0.5rem;
+  font-size: 1rem;
 }
 
 .buttons {
@@ -62,8 +63,8 @@
 
 .buttons button {
   margin-left: 10px;
-  width: 3rem;
-  height: 1rem;
-  font-size: 0.3rem;
+  width: 5rem;
+  height: 3rem;
+  font-size: 1rem;
   text-align: center;
 }

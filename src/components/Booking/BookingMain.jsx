@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from './BookingMain.module.css'
-import Modal from '../Commons/Modal';
+import BookModal from '../Commons/BookModal';
 import Button from '../Commons/Button'
 import Seat from './Seat'
 
@@ -34,8 +34,8 @@ const BookingMain = (props) => {
 
   const modalButton = (
     <div className={classes.buttons}>
-      <Button content={'Order'}></Button>
-      <Button onClick={props.onClose} content={'Close'}></Button>
+      <Button onClick={props.onClose}>Order</Button>
+      <Button onClick={props.onClose}>Close</Button>
     </div>
   );
 
@@ -51,7 +51,7 @@ const BookingMain = (props) => {
     </>
   )
 
-  return <Modal>{bookingModalContent}</Modal>;
+  return <BookModal>{bookingModalContent}</BookModal>;
 }
 
 export default BookingMain
