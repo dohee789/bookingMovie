@@ -27,10 +27,10 @@
   ![메인](https://user-images.githubusercontent.com/78744630/158071759-7a5358dd-b7d7-43af-8387-d254293c194b.png)
 
   <좌석 예매>
-  ![예매](https://user-images.githubusercontent.com/87411479/158066424-426785b4-b94a-45af-b438-5b446b29517f.PNG)
+  ![예매](https://user-images.githubusercontent.com/78744630/158071816-49ec23ee-24d9-4df4-b829-1fb4e35d7936.png)
 
   <예매 내역 확인>
-  ![예매내역](https://user-images.githubusercontent.com/87411479/158066425-db613fc7-9a65-4d8d-ba77-9b5b116db09a.PNG)
+  ![예매내역](https://user-images.githubusercontent.com/78744630/158071889-2751188c-3229-4808-9f76-113930604091.png)
 
  
 * **트러블 슈팅** :
