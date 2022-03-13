@@ -24,13 +24,13 @@
 * **실행 화면** :
 
   <메인>
-  ![메인](https://user-images.githubusercontent.com/78744630/158071759-7a5358dd-b7d7-43af-8387-d254293c194b.png)
+  ![메인](https://user-images.githubusercontent.com/78744630/158072442-742e80dc-50ca-4df0-8f07-808a979c8746.png)
 
   <좌석 예매>
-  ![예매](https://user-images.githubusercontent.com/78744630/158071816-49ec23ee-24d9-4df4-b829-1fb4e35d7936.png)
+  ![예매](https://user-images.githubusercontent.com/78744630/158072480-3ffa9b70-08de-4e85-a382-575c524b9976.png)
 
   <예매 내역 확인>
-  ![예매내역](https://user-images.githubusercontent.com/78744630/158071889-2751188c-3229-4808-9f76-113930604091.png)
+  ![예매내역](https://user-images.githubusercontent.com/78744630/158072501-f3764637-4362-4fee-8060-ed8437be6ba7.png)
 
  
 * **트러블 슈팅** :
