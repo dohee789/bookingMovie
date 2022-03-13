@@ -1,8 +1,10 @@
+import My from "./components/My/My";
 import './App.css';
 import Test from './components/Test'
 
-function App() {
+const App = () => {
   return (
+      <My/>
     <Test />
   );
 }

@@ -1,6 +1,10 @@
 import React from 'react'
-import ReactDOM from 'react-dom';
-import classes from './Modal.module.css'
+import ReactDOM from 'react-dom'
+import calsses from './Modal.module.css'
+
+const Background = (props) => {
+    return <div className={calsses.background} onClick={props.onClose}/>
+}
 
 const Background = (props) => {
   return <div className={classes.background} onClick={props.onClose}/>
@@ -19,10 +23,10 @@ const portalElement = document.getElementById('modal-window');
 const Modal = (props) => {
   return (
     <>
-      {ReactDOM.createPortal(<Background onClose={props.onClose}/>, portalElement)}
-      {ReactDOM.createPortal(<ModalWindow>{props.children}</ModalWindow>, portalElement)}
+    {ReactDOM.createPortal(<Background onClose={props.onClose}/>, portalElement)}
+    {ReactDOM.createPortal(<ModalWindow>{props.children}</ModalWindow>, portalElement)}
     </>
-  )
+    )
 }
 
 export default Modal
