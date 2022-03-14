@@ -33,7 +33,6 @@
   ![예매내역](https://user-images.githubusercontent.com/78744630/158073111-0ce2ef41-5091-4a5f-8822-224be1db97e5.png)
 
  
-* **트러블 슈팅** :
 
 * **개선할 사항** :
 
